@@ -1,0 +1,519 @@
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.csproj.AssemblyReference.cache
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\App.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.cache
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.lref
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\company.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Dashboard.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Employee.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\loading.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\login.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Midicine.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\report.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.deps.json
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.exe
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.exe
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.deps.json
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.runtimeconfig.json
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.pdb
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\itextsharp.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\WpfAnimatedGif.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.pdb
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\company.baml
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Dashboard.baml
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Employee.baml
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\loading.baml
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\login.baml
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\MainWindow.baml
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Midicine.baml
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\report.baml
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.g.resources
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.AssemblyInfoInputs.cache
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.AssemblyInfo.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.csproj.CoreCompileInputs.cache
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.csproj.CopyComplete
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\refint\Design.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.pdb
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.genruntimeconfig.cache
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\ref\Design.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\administrive.png
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Back.png
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\biilig.png
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\bill.png
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\companies.jpg
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\employees.jpg
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\loading.gif
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\login.gif
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\medician.jpg
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\report.jpg
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design_Content.g.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Design\bin\Debug\net7.0-windows\logout.jpg
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\administrive.png
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Back.png
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\biilig.png
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\bill.png
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\companies.jpg
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\employees.jpg
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\loading.gif
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\login.gif
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\logout.jpg
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\medician.jpg
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\report.jpg
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.deps.json
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.exe
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.exe
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.deps.json
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.runtimeconfig.json
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Design.pdb
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\itextsharp.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\WpfAnimatedGif.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Project.pdb
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.csproj.AssemblyReference.cache
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Dashboard.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Employee.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Loading.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Login.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Midicine.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\report.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design_Content.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.cache
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.lref
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Dashboard.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Employee.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Loading.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Login.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Midicine.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\report.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.g.resources
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.AssemblyInfoInputs.cache
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.AssemblyInfo.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.csproj.CoreCompileInputs.cache
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.csproj.CopyComplete
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\refint\Design.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.pdb
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Design.genruntimeconfig.cache
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\ref\Design.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\company.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\company.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\EmployeeDashboard.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Return.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\App.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\EmployeeDashboard.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\Return.baml
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\Return - Copy.jpg
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\logot.jpg
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\dashboard.png
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\division.png
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\office-building.png
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\report.png
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\bin\Debug\net7.0-windows\syringe.png
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\dashboardcontent.g.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Design\obj\Debug\net7.0-windows\dashboardcontent.baml
+E:\Project\Design\obj\Debug\net7.0-windows\Design.csproj.AssemblyReference.cache
+E:\Project\Design\obj\Debug\net7.0-windows\company.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Dashboard.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\dashboardcontent.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Employee.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\EmployeeDashboard.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Loading.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Login.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Midicine.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\report.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Return.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\App.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Design_Content.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.cache
+E:\Project\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.lref
+E:\Project\Design\obj\Debug\net7.0-windows\Design.dll
+E:\Project\Design\obj\Debug\net7.0-windows\refint\Design.dll
+E:\Project\Design\obj\Debug\net7.0-windows\Design.pdb
+E:\Project\Design\bin\Debug\net7.0-windows\administrive.png
+E:\Project\Design\bin\Debug\net7.0-windows\Back.png
+E:\Project\Design\bin\Debug\net7.0-windows\biilig.png
+E:\Project\Design\bin\Debug\net7.0-windows\companies.jpg
+E:\Project\Design\bin\Debug\net7.0-windows\loading.gif
+E:\Project\Design\bin\Debug\net7.0-windows\login.gif
+E:\Project\Design\bin\Debug\net7.0-windows\logout.jpg
+E:\Project\Design\bin\Debug\net7.0-windows\report.jpg
+E:\Project\Design\bin\Debug\net7.0-windows\Project.deps.json
+E:\Project\Design\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+E:\Project\Design\bin\Debug\net7.0-windows\Project.exe
+E:\Project\Design\bin\Debug\net7.0-windows\Design.exe
+E:\Project\Design\bin\Debug\net7.0-windows\dashboard.png
+E:\Project\Design\bin\Debug\net7.0-windows\division.png
+E:\Project\Design\bin\Debug\net7.0-windows\logot.jpg
+E:\Project\Design\bin\Debug\net7.0-windows\medician.jpg
+E:\Project\Design\bin\Debug\net7.0-windows\office-building.png
+E:\Project\Design\bin\Debug\net7.0-windows\report.png
+E:\Project\Design\bin\Debug\net7.0-windows\Return - Copy.jpg
+E:\Project\Design\bin\Debug\net7.0-windows\syringe.png
+E:\Project\Design\bin\Debug\net7.0-windows\Design.deps.json
+E:\Project\Design\bin\Debug\net7.0-windows\Design.runtimeconfig.json
+E:\Project\Design\bin\Debug\net7.0-windows\Design.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Design.pdb
+E:\Project\Design\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\Project\Design\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Humanizer.dll
+E:\Project\Design\bin\Debug\net7.0-windows\itextsharp.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\Project\Design\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\Design\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\Project\Design\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\Project\Design\bin\Debug\net7.0-windows\WpfAnimatedGif.dll
+E:\Project\Design\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\Design\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\Design\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Design\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Design\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Design\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Design\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Project.dll
+E:\Project\Design\bin\Debug\net7.0-windows\Project.pdb
+E:\Project\Design\obj\Debug\net7.0-windows\App.baml
+E:\Project\Design\obj\Debug\net7.0-windows\company.baml
+E:\Project\Design\obj\Debug\net7.0-windows\Dashboard.baml
+E:\Project\Design\obj\Debug\net7.0-windows\dashboardcontent.baml
+E:\Project\Design\obj\Debug\net7.0-windows\Employee.baml
+E:\Project\Design\obj\Debug\net7.0-windows\EmployeeDashboard.baml
+E:\Project\Design\obj\Debug\net7.0-windows\Loading.baml
+E:\Project\Design\obj\Debug\net7.0-windows\Login.baml
+E:\Project\Design\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Project\Design\obj\Debug\net7.0-windows\Midicine.baml
+E:\Project\Design\obj\Debug\net7.0-windows\report.baml
+E:\Project\Design\obj\Debug\net7.0-windows\Return.baml
+E:\Project\Design\obj\Debug\net7.0-windows\Design.g.resources
+E:\Project\Design\obj\Debug\net7.0-windows\Design.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Design\obj\Debug\net7.0-windows\Design.AssemblyInfoInputs.cache
+E:\Project\Design\obj\Debug\net7.0-windows\Design.AssemblyInfo.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Design.csproj.CoreCompileInputs.cache
+E:\Project\Design\obj\Debug\net7.0-windows\Design.csproj.CopyComplete
+E:\Project\Design\obj\Debug\net7.0-windows\Design.genruntimeconfig.cache
+E:\Project\Design\obj\Debug\net7.0-windows\ref\Design.dll
+E:\Project\Design\bin\Debug\net7.0-windows\billl.png
+E:\Project\Design\bin\Debug\net7.0-windows\exit.png
+E:\Project\Design\bin\Debug\net7.0-windows\reportt.png
+E:\Project\Design\bin\Debug\net7.0-windows\returnB.png
+E:\Project\Design\bin\Debug\net7.0-windows\employees.png
+E:\Project\Design\obj\Debug\net7.0-windows\History.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\Profit.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\ReportDashboard.g.cs
+E:\Project\Design\obj\Debug\net7.0-windows\History.baml
+E:\Project\Design\obj\Debug\net7.0-windows\Profit.baml
+E:\Project\Design\obj\Debug\net7.0-windows\ReportDashboard.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\administrive.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Back.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\biilig.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\companies.jpg
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\loading.gif
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\login.gif
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\logout.jpg
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\report.jpg
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Project.deps.json
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Project.exe
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Design.exe
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\billl.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\dashboard.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\division.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\employees.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\exit.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\logot.jpg
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\medician.jpg
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\office-building.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\report.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\reportt.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Return - Copy.jpg
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\syringe.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\returnB.png
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Design.deps.json
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Design.runtimeconfig.json
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Design.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Design.pdb
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Azure.Core.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Azure.Identity.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Humanizer.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\itextsharp.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\System.Memory.Data.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\WpfAnimatedGif.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Project.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\bin\Debug\net7.0-windows\Project.pdb
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.csproj.AssemblyReference.cache
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Bill.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\company.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Dashboard.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\dashboardcontent.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Employee.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\EmployeeDashboard.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\History.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Loading.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Login.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Midicine.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Profit.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\report.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\ReportDashboard.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Return.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\App.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design_Content.g.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.cache
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.lref
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\App.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Bill.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\company.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Dashboard.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\dashboardcontent.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Employee.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\EmployeeDashboard.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\History.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Loading.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Login.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Midicine.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Profit.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\report.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\ReportDashboard.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Return.baml
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.g.resources
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.AssemblyInfoInputs.cache
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.AssemblyInfo.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.csproj.CoreCompileInputs.cache
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.csproj.CopyComplete
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\refint\Design.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.pdb
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\Design.genruntimeconfig.cache
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Design\obj\Debug\net7.0-windows\ref\Design.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\administrive.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Back.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\biilig.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\companies.jpg
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\loading.gif
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\login.gif
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\logout.jpg
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\report.jpg
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Project.deps.json
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Project.runtimeconfig.json
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Project.exe
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Design.exe
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\billl.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\dashboard.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\division.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\employees.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\exit.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\logot.jpg
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\medician.jpg
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\office-building.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\report.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\reportt.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Return - Copy.jpg
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\syringe.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\returnB.png
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Design.deps.json
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Design.runtimeconfig.json
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Design.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Design.pdb
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\itextsharp.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\WpfAnimatedGif.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Project.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\bin\Debug\net7.0-windows\Project.pdb
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Bill.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\company.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Dashboard.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\dashboardcontent.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Employee.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\EmployeeDashboard.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\History.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Loading.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Login.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Midicine.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Profit.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\report.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\ReportDashboard.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Return.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design_Content.g.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.cache
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design_MarkupCompile.lref
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\App.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Bill.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\company.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Dashboard.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\dashboardcontent.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Employee.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\EmployeeDashboard.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\History.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Loading.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Login.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Midicine.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Profit.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\report.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\ReportDashboard.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Return.baml
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.g.resources
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.AssemblyInfo.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.csproj.CopyComplete
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\refint\Design.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.pdb
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\Design.genruntimeconfig.cache
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Design\obj\Debug\net7.0-windows\ref\Design.dll

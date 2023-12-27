@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="company.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="dashboardcontent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Employee.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EmployeeDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="History.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Loading.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Midicine.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Profit.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="report.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ReportDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Return.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="company.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dashboard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="dashboardcontent.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Employee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EmployeeDashboard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="History.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Loading.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Bill.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Midicine.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Profit.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="report.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReportDashboard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Return.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

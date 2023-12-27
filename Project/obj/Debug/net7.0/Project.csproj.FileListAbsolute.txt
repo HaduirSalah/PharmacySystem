@@ -1,0 +1,287 @@
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\bin\Debug\net7.0\Project.exe
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\bin\Debug\net7.0\Project.deps.json
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\bin\Debug\net7.0\Project.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\bin\Debug\net7.0\Project.pdb
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\Project.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\refint\Project.dll
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\Project.pdb
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+F:\ITI 9 Month\BackEndProjects\ProjectEf\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Project.exe
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Project.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\Project.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mayar\Desktop\ProjectEf\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+E:\Project\Project\bin\Debug\net7.0\Project.exe
+E:\Project\Project\bin\Debug\net7.0\Project.deps.json
+E:\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+E:\Project\Project\bin\Debug\net7.0\Project.dll
+E:\Project\Project\bin\Debug\net7.0\Project.pdb
+E:\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+E:\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+E:\Project\Project\bin\Debug\net7.0\Humanizer.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+E:\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+E:\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+E:\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+E:\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+E:\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+E:\Project\Project\obj\Debug\net7.0\Project.dll
+E:\Project\Project\obj\Debug\net7.0\refint\Project.dll
+E:\Project\Project\obj\Debug\net7.0\Project.pdb
+E:\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+E:\Project\Project\obj\Debug\net7.0\ref\Project.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Project.exe
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Project.deps.json
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Project.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Project.pdb
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Azure.Core.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Azure.Identity.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Humanizer.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\System.CodeDom.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\System.Memory.Data.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\Project.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\refint\Project.dll
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\Project.pdb
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+F:\ITI 9 Month\BackEndProjects\LastFinal\Project\Project\obj\Debug\net7.0\ref\Project.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Project.exe
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Project.deps.json
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Project.runtimeconfig.json
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Project.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Project.pdb
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\Project.csproj.AssemblyReference.cache
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\Project.AssemblyInfoInputs.cache
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\Project.AssemblyInfo.cs
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\Project.csproj.CopyComplete
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\Project.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\refint\Project.dll
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\Project.pdb
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\Project.genruntimeconfig.cache
+C:\Users\Electronica Care\Downloads\PharmacySystem\PharmacySystem\PharmacySystem\Project\obj\Debug\net7.0\ref\Project.dll
